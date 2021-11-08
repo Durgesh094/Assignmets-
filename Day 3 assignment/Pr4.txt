@@ -1,0 +1,16 @@
+4. Archive the files which have modified 7 days ago and move it to your backup folder.
+
+Comand--->
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/Pract
+$ find /Durgesh/Pract/ -mtime -7 -ls
+D7Pr2.sh  Pr4.sh          d9pr.sh                    pr1/
+D7pr1.sh  d10pr1.sh       day5selectionprctproblem/
+D7pr3.sh  d10pr_1,sh.txt  day5sequenceprctproblem/
+Pr1.sh    d10pr_1.sh      pr.txt
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/Pract
+$ find . -mtime -7 -print0 | xargs -0 tar -cjf /foo/archive.tar.bz2
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/Pract/archive
+$ tar --newer $(date -d'7 days ago' +"%d-%b") -zcf thisweek.tgz .

@@ -1,0 +1,28 @@
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ notepad Pr1.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr1.sh
+Enter n= 2
+2 to the power 2 is 4
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr1.sh
+Enter n= 4
+2 to the power 4 is 16
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr1.sh
+Enter n= 6
+2 to the power 6 is 64
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr1.sh
+Enter n= 8
+2 to the power 8 is 256
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr1.sh
+Enter n= 10
+2 to the power 10 is 1024
+

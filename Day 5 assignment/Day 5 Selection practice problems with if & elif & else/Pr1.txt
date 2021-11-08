@@ -1,0 +1,42 @@
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ touch Pr1.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ notepad Pr1.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr1.sh
+Enter number : 9
+Your number 9 in words :
+nine
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr1.sh
+Enter number : 5
+Your number 5 in words :
+five
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr1.sh
+Enter number : 2
+Your number 2 in words :
+two
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr1.sh
+Enter number : 7
+Your number 7 in words :
+seven
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr1.sh
+Enter number : 1
+Your number 1 in words :
+one
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr1.sh
+Enter number : 6
+Your number 6 in words :
+six
+

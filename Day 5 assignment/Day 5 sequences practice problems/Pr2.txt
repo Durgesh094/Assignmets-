@@ -1,0 +1,29 @@
+2.Use Random to get Dice Number between 1 to 6
+
+Output--->
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm2.sh
+1
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm2.sh
+6
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm2.sh
+6
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm2.sh
+4
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm2.sh
+5
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm2.sh
+2
+
+Code --->
+ echo $((RANDOM%6+1))

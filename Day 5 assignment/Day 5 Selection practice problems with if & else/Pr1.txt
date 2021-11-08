@@ -1,0 +1,54 @@
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract/day5selectionprctproblem
+$ bash pr1.sh
+x = 164 611 400 500 779
+799
+164
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract/day5selectionprctproblem
+$ bash pr1.sh
+x = 410 121 362 179 246
+410
+121
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract/day5selectionprctproblem
+$ bash pr1.sh
+x = 370 947 754 968 497
+968
+370
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract/day5selectionprctproblem
+$ bash pr1.sh
+x = 824 345 539 310 848
+848
+310
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract/day5selectionprctproblem
+$ bash pr1.sh
+x = 930 131 872 721 384
+930
+131
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract/day5selectionprctproblem
+$ bash pr1.sh
+x = 255 931 996 802 560
+996
+255
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract/day5selectionprctproblem
+$ bash pr1.sh
+x = 352 298 249 802 717
+802
+249
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract/day5selectionprctproblem
+$ bash pr1.sh
+x = 613 878 341 154 842
+613
+341
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract/day5selectionprctproblem
+$ bash pr1.sh
+x = 981 830 551 872 563
+981
+551
+

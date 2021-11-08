@@ -1,0 +1,36 @@
+3.Add two Random Dice Number and Print the Result
+
+Output--->
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm.sh
+2 1
+Output= 3
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm.sh
+4 2
+Output= 6
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm.sh
+6 5
+Output= 11
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm.sh
+4 3
+Output= 7
+
+
+Code--->
+
+x=$((RANDOM%6+1))
+y=$((RANDOM%6+1))
+
+function add () {
+	c=$(($x + $y))
+	echo $1 $2 
+	echo "Output=" $c
+}
+add $x $y $c

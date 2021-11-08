@@ -1,0 +1,8 @@
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract/day5selectionprctproblem
+$ notepad pr2.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract/day5selectionprctproblem
+$ bash pr2.sh
+DATE: 0211
+False
+

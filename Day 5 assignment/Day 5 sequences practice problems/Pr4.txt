@@ -1,0 +1,52 @@
+4. Write a program that reads 5 Random 2 Digit values , then find their sum and the average
+
+Output--->
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ notepad rndm04.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm04.sh
+13 91 10 80 28
+Output= 222
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ notepad rndm04.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm04.sh
+44 61 83 17 40
+Sum Output= 245
+Average Output= 49
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm04.sh
+44 90 25 47 61
+Sum Output= 267
+Average Output= 53
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash rndm04.sh
+67 31 48 35 51
+Sum Output= 232
+Average Output= 46
+
+Code --->
+
+a=$((RANDOM%90+10))
+b=$((RANDOM%90+10))
+c=$((RANDOM%90+10))
+d=$((RANDOM%90+10))
+e=$((RANDOM%90+10))
+function add () {
+	c=$(($a + $b + $c + $d + $e))
+	echo $1 $2 $3 $4 $5
+	echo "Sum Output=" $c
+}
+add $a $b $c $d $e $c
+function average () {
+	d=$(( $c / 5))
+	echo "Average Output=" $d
+}
+average $d	
+

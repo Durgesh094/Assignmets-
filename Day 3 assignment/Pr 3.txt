@@ -1,0 +1,17 @@
+problem 3: Append current date to all log files name which has extension .log.1 from a folder
+
+Output --->
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/temp
+$ touch abc.log.1 def.log.1 ghi.log.1 jkl.log.1 mno.log.1
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/temp
+$ ls
+abc.log.1  def.log.1  ghi.log.1  jkl.log.1  mno.log.1
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/temp
+$ basename /temp/abc.log.1 .log.1
+abc
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/temp
+$ date +"%d%m%Y"
+27102021

@@ -1,0 +1,13 @@
+LENOVO@DESKTOP-T96QR5R MINGW64 ~
+$ ps PID,PPID,CMD,%MEM,%CPU
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      636       1     636      10552  ?         197609 21:59:55 /usr/bin/mintty
+      768     637     768       6948  pty0      197609 22:13:55 /usr/bin/ps
+      637     636     637       4532  pty0      197609 21:59:56 /usr/bin/bash
+
+using watch command -->
+ watch -n 1 'ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%cpu | head'
+
+
+using ps command -->
+ ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%mem | head

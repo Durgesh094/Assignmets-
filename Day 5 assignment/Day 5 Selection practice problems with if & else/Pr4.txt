@@ -1,0 +1,31 @@
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ notepad Pr3.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr3.sh
+tails
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr3.sh
+tails
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr3.sh
+heads
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr3.sh
+heads
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr3.sh
+heads
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr3.sh
+heads
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr3.sh
+tails
+

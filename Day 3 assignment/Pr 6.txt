@@ -1,0 +1,40 @@
+problem 6. Execute command "Hello" and "ls" and check its execution status and print whether command executed successful or not.
+
+Output --->
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ ls
+access.log.txt  command.sh*  temp/  var/
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ echo $?
+0
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash command.sh
+Command sucessfully executed
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ hello
+bash: hello: command not found
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ echo $?
+127
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash command.sh
+Command sucessfully executed
+
+
+
+Code --->
+
+#!/bin/bash
+
+if [ $? -eq 0 ]
+then
+   echo "Command sucessfully executed"
+else
+   echo "Command execution fail"
+fi

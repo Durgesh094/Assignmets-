@@ -1,0 +1,21 @@
+1. Get user info from/etc/passwd and change ownership of user's home directory (select userid higher than 1000)
+
+Commands--->
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~
+$ sudo chown
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~
+$ cd /Desktop/Dir1
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/Dir1 
+$ chown --version
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/Dir1
+$ sudo chown test sample
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/Dir1
+$ chown 1002 sample2
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/Dir1
+$ id -u USERNAME	

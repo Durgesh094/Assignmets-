@@ -1,0 +1,30 @@
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ touch Pr3.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash pr3.sh
+Enter Number : 2
+2 is a prime number.
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash pr3.sh
+Enter Number : 4
+4 is not a prime number.
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash pr3.sh
+Enter Number : 5
+5 is a prime number.
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash pr3.sh
+Enter Number : 6
+6 is not a prime number.
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash pr3.sh
+Enter Number : 8
+8 is not a prime number.
+
+
+

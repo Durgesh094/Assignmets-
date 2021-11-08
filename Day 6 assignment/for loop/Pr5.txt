@@ -1,0 +1,36 @@
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ touch Pr5.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ notepad pr5.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash Pr5.sh
+Enter a number:
+2
+2
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash Pr5.sh
+Enter a number:
+4
+24
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash Pr5.sh
+Enter a number:
+6
+720
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash Pr5.sh
+Enter a number:
+5
+120
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/pract
+$ bash Pr5.sh
+Enter a number:
+3
+6
+

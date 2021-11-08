@@ -1,0 +1,13 @@
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ notepad Pr2.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ bash Pr2.sh
+weekend: mon
+weekday: tue
+weekday: wed
+weekday: thurs
+weekday: fri
+weekday: sat
+weekend: sun
+

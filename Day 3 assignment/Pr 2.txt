@@ -1,0 +1,26 @@
+problem 2: Move files from one folder to respective folder
+
+Output --->
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ mkdir temp
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh
+$ cd temp/
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/temp
+$ touch abc.txt def.txt ghi.txt jkl.txt
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/temp
+$ ls
+abc.txt  def.txt  ghi.txt  jkl.txt
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/temp
+$ notepad loops.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/temp
+$ bash loops.sh
+
+LENOVO@DESKTOP-T96QR5R MINGW64 ~/Desktop/codingclub/durgesh/temp
+$ ls
+abc/abc.txt  def/def.txt  ghi/ghi.txt  jkl/jkl.txt  loops.sh
